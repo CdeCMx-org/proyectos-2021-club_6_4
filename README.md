@@ -1,5 +1,6 @@
-## Nombre de proyecto
+## Impacto de las redes neuronales en el desarrollo farmacéutico
 
+Alguna ves te has preguntado, ¿cómo se desarrolla un fármaco?. Es una pregunta válida, dado que los fármacos forman parte de nuestra vida más de lo que queremos, especialmente con la situación que vivimos en la actualidad. El desarrollo de un fármaco comienza desde la elección de una proteína, sin embargo, 
 Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
 
 El URL generado de tu página lo puedes encontrar en Settings -> Pages. 

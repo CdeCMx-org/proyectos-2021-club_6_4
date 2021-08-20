@@ -46,7 +46,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 * Estudiante 1
 * Estudiante 2
 * Estudiante 3
-* Estudiante 4
+
 
 ![](Logo_CdeCMx.png)
 

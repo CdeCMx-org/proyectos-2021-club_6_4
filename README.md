@@ -11,14 +11,20 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 ### Introducción
 
 Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+* **¿Qué problema vas a abordar?**
+* El reposicionamiento de fármacos como una estrategia en la búsqueda de nuevos usos en medicamentos para diferentes enfermedades y el cambio de sus características físico-químicas para esto.
+* **¿porqué es importante?**
+* Permite ahorrar inmensas cantidades de recursos económicos en la búsqueda de nuevos tratamientos que mejoren la interacción con la molécula blanco, además de predecir posibles efectos secundarios. 
+* **¿cómo se relaciona con la **_ODS_** asignada a tu club?** 
+* La búsqueda de nuevos fármacos en el mundo de la medicina, así como su cooperación traslacional ha sido un reto para el siglo XXI, gracias a los avances en la IA podríamos lograr una cobertura global de salud, facilitar medicamentos y vacunas seguras eficaces para todos y promover la búsqueda de nuevos tratamientos. 
+* **¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?**
+*  Gracias a la IA podemos disminuir los tiempos de investigación y obtener diversas variantes de una molécula, así como considerar las posibles interacciones con diferentes blancos e incluso saber qué modificaciones necesitan las sustancias activas sin la intervención de una experimentación biológica temprana que resulte costosa.
 
 ### Métodología
+1. Definimos una problemática en el campo de la creación o modificación de fármacos y como ha interactuado la IA para modificar esto.
+2. Buscamos palabras claves en BVS y realizamos una búsqueda en motores de búsqueda de artículos sobre esta problemática.
+3. Encontramos el artículo "Avances en el diseñño de fármacos asistido por computadora" y gracias a lo visto en clase decidimos profundizar en como la IA junto con la medicina interactúan. 
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
 ### Resultados
 
@@ -45,8 +51,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
+* María Fernanda Castillo Vaca
 * Estudiante 3
 
 
